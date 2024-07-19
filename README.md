@@ -9,6 +9,7 @@ Dataset: [https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag
 - F1 Score: 90.5%
 
 **Confusion Matrix**
+
 <img width="630" alt="bag_model_conf_mat" src="https://github.com/user-attachments/assets/934168d9-0565-4d60-9b67-2757bf255f8b">
 
 **Train Test Performance**
