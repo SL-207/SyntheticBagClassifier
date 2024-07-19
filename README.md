@@ -13,6 +13,7 @@ Dataset: [https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag
 <img width="630" alt="bag_model_conf_mat" src="https://github.com/user-attachments/assets/934168d9-0565-4d60-9b67-2757bf255f8b">
 
 **Train Test Performance**
+
 <img width="1014" alt="train_test_performance" src="https://github.com/user-attachments/assets/ec6424b4-57e7-42ab-be23-480ce78fd77d">
 
 **Streamlit Deploy**
