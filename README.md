@@ -16,4 +16,5 @@ Dataset: [https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag
 <img width="1014" alt="train_test_performance" src="https://github.com/user-attachments/assets/ec6424b4-57e7-42ab-be23-480ce78fd77d">
 
 **Streamlit Deploy**
+
 <img width="667" alt="bag_web_classifier" src="https://github.com/user-attachments/assets/4f2930b9-f207-4e31-b5fa-42e97fef470c">
