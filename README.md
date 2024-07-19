@@ -1,7 +1,7 @@
 
 Dataset: [https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag-synthetic-images](url)
 
-### Results
+## Results
 #### Model Performance
 - Accuracy: 90.3%
 - Precision: 90.7%
