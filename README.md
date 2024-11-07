@@ -3,10 +3,10 @@ Dataset: [https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag
 
 ## Results
 #### Model Performance
-- _Accuracy_: 90.3%
-- _Precision_: 90.7%
-- _Recall_: 90.4%
-- _F1 Score_: 90.5%
+- Accuracy: 90.3%
+- Precision: 90.7%
+- Recall: 90.4%
+- F1 Score: 90.5%
 
 **Confusion Matrix**
 
